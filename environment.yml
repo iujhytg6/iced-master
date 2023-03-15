@@ -1,0 +1,10 @@
+name: iced
+channels:
+    - default
+dependencies:
+    - python>3
+    - cython
+    - numpy>1.16
+    - pandas
+    - scikit-learn
+    - scipy>0.19
